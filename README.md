@@ -21,4 +21,4 @@ Computer Science / Software Engineering Student & Full-Stack Developer passionat
 
 ### 📫 Connect with Me
 
-- **Email:** tu-correo@ejemplo.com
+- **Email:** jacobesa619@gmail.com
