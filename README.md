@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Jacob Puc 👋
 
-<!--
-**jacob-puc/jacob-puc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science / Software Engineering Student & Full-Stack Developer passionate about building robust, modern, and scalable software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🎓 Software Engineering / Computer Science Student.
+- 💡 Always learning best practices, clean code, and modern UI/UX design.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** JavaScript, TypeScript, Java, C#, SQL
+- **Backend:** Spring Boot, .NET Core / ASP.NET, Node.js
+- **Frontend:** React, HTML5, CSS3, Tailwind CSS
+- **Databases & Tools:** PostgreSQL, SQLite, Git, GitHub, VS Code
+
+---
+
+### 📫 Connect with Me
+
+- **Email:** tu-correo@ejemplo.com
